@@ -1,4 +1,4 @@
-# GoJinYeong.github.io
+# Part1
 # 컴퓨터 핵심: 범용성
 # 임베디드 프로그램(embedded program)
 # 인터프리터 모드 / 스크립트 모드
