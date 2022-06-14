@@ -6,7 +6,7 @@ avg = 0
 cnt = 0
 num = 0
 
-print("입력이 끝나면 음수를 입력하세요.")
+print("입력이 끝나면 반드시 음수를 입력하세요!")
 
 while num >= 0:
     num = int(input("과목의 점수를 입력하세요:"))
