@@ -19,7 +19,8 @@ data 타입, return 타입을 적지 않음!! <br/>
 
 # call by value vs call by reference
   면접에서 가장 자주 나오는 질문<br/>
-  보강할 것
+  call by value == pass by value : 혼란을 막기 위해 변수의 "값"만 전달
+  ** 숫자나 문자열은 변경 불가능한 객체(immutable object)
   
 # 값을 반환하지 않는 함수
   보기 좋은 출력문이 필요할 때 <br/>
@@ -36,4 +37,8 @@ data 타입, return 타입을 적지 않음!! <br/>
  # 키워드 인수(keyword argument)
  인수들 앞에 키워드를 두어서 인수 구분 <br/>
  인수의 이름을 명시적으로 지정해서 전달하는 방법 <br/>
+ 
+ # local variable vs global variable
+ 지역 변수: 함수 안에서 선언된 변수
+ 전역 변수: 함수의 외부에서 선언된 변수
  
